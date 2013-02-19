@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SetPinViewController.h
 //  CommonClassSample
 //
 //  Created by MacBook on 1/22/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface SetPinViewController : UIViewController
 
 @end
